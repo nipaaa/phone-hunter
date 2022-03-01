@@ -49,8 +49,8 @@ const displayPhone = phones => {
             displayDiv.appendChild(div); 
         });   
     }
-    const empty2 = displayPhoneDetails()
-    empty2.textContent = '';
+    const empty = displayPhoneDetails()
+    empty.textContent = '';
   
 }
 
